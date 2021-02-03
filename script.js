@@ -144,6 +144,6 @@ function mixedMessage () {
     )
 }
 
-function newQuote() {
+function newMessage() {
     document.getElementById('mixed-messages').innerHTML = mixedMessage();
 }
